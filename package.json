@@ -1,0 +1,25 @@
+{
+  "name": "constant-ENGINEERING",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "dev:clean": "rm -rf .nuxt .output node_modules/.cache && nuxt prepare && nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "sync:knowledge": "npx jiti scripts/sync-agent-knowledge.ts"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "nuxt": "^3.13.0",
+    "nuxt-icon": "^0.6.10"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@nuxtjs/robots": "^6.1.2",
+    "@nuxtjs/sitemap": "^8.2.2",
+    "@vueuse/motion": "^2.0.0"
+  }
+}

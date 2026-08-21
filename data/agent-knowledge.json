@@ -1,0 +1,426 @@
+{
+  "company": {
+    "name": "CONSTANT ENGINEERING PLC",
+    "legalName": "CONSTANT ENGINEERING plc",
+    "established": 2017,
+    "headquarters": "Addis Ababa, Ethiopia",
+    "serviceArea": "Ethiopia and the region",
+    "tagline": "Electromechanical Experts — Power, Automation, HVAC Solutions",
+    "website": "constanteng.com",
+    "email": "info@constanteng.com",
+    "phones": [
+      "+251 924 909 098",
+      "+251 911 147 101"
+    ],
+    "whatsapp": "+251 924 909 098",
+    "telegram": "https://t.me/constantENGINEERING",
+    "address": {
+      "building": "KKare Building",
+      "street": "Mozambique Street, Mexico Area",
+      "city": "Addis Ababa",
+      "country": "Ethiopia"
+    },
+    "mapsUrl": "https://maps.app.goo.gl/FFS3Wvaz4BxTKAje8"
+  },
+  "positioning": {
+    "mission": "Deliver world-class electromechanical engineering solutions that power industries and transform communities.",
+    "summary": "Leading electromechanical engineering company in Ethiopia, established in 2017. Full-scope solutions from design and supply to installation, commissioning, and long-term support.",
+    "principles": [
+      "Integrity",
+      "Partnerships",
+      "Excellence"
+    ],
+    "values": [
+      "Reliability",
+      "Integrity",
+      "Technical Excellence"
+    ],
+    "differentiators": [
+      "Professional mechanical and electrical engineering team",
+      "Turnkey supply, installation, and commissioning",
+      "Preventive maintenance and service contracts",
+      "Tailored solutions for industrial, commercial, and utility clients",
+      "Partnerships with globally respected equipment brands"
+    ]
+  },
+  "process": [
+    {
+      "phase": "Discovery",
+      "description": "Thorough assessment to understand challenges, requirements, and opportunities."
+    },
+    {
+      "phase": "Design",
+      "description": "Custom engineering solutions using industry best practices and proven technologies."
+    },
+    {
+      "phase": "Implementation",
+      "description": "Precise installation and integration with attention to every detail."
+    },
+    {
+      "phase": "Support",
+      "description": "Long-term maintenance and technical support beyond project completion."
+    }
+  ],
+  "capabilities": [
+    "Electromechanical engineering",
+    "Industrial installations",
+    "Electrical systems design and installation",
+    "Mechanical systems (HVAC, pumps, generators)",
+    "Engineering design and consultancy",
+    "Maintenance and technical support",
+    "Load assessment and system sizing",
+    "Turnkey supply, installation, and commissioning",
+    "Preventive maintenance contracts",
+    "Custom control panel and metal fabrication"
+  ],
+  "products": [
+    {
+      "id": "diesel-generator-systems",
+      "path": "/products/diesel-generator-systems",
+      "name": "Diesel Generators",
+      "summary": "Reliable backup and prime power from 10 KVA to 2000 KVA. Open and silent canopy types for industrial, commercial, and utility use.",
+      "capacityOrScope": "10 KVA – 2000 KVA",
+      "applications": [
+        "Industrial",
+        "Commercial",
+        "Utility",
+        "Prime & standby power"
+      ],
+      "brands": [
+        "GUCBIR",
+        "TMG",
+        "GRUPEL",
+        "Perkins",
+        "Cummins",
+        "ASCO"
+      ],
+      "services": [
+        "Load and capacity assessment",
+        "Supply, installation, and commissioning",
+        "Synchronization and load sharing",
+        "Preventive maintenance and service contracts",
+        "Automatic and manual transfer switches",
+        "Generator parts supply (filters, control modules, batteries, starters, alternators)"
+      ],
+      "specs": {
+        "Capacity range": "10 KVA – 2000 KVA",
+        "Types": "Open & silent canopy",
+        "Power modes": "Prime & standby",
+        "Transfer switches": "ASCO ATS and manual LTS"
+      }
+    },
+    {
+      "id": "solar-hybrid-energy",
+      "path": "/products/solar-hybrid-energy",
+      "name": "Solar & Hybrid Energy Solutions",
+      "summary": "On-grid and off-grid solar, hybrid solar-plus-generator systems, inverters, charge controllers, and battery storage.",
+      "capacityOrScope": "On-grid, off-grid, and hybrid systems",
+      "applications": [
+        "Commercial",
+        "Industrial",
+        "Off-grid sites",
+        "Cost reduction and sustainability"
+      ],
+      "brands": [
+        "ANERN"
+      ],
+      "services": [
+        "On-grid & Off-grid Solar Systems",
+        "Hybrid Systems (Solar + Generator)",
+        "Inverters & Charge Controllers",
+        "Battery Banks (Lead Acid & Lithium-Ion)",
+        "Energy Analysis & System Design"
+      ],
+      "specs": {
+        "System Types": "On-grid & Off-grid",
+        "Hybrid Options": "Solar + Generator",
+        "Battery Types": "Lead Acid & Lithium-Ion",
+        "Brands": "ANERN",
+        "Services": "Energy Analysis & System Design"
+      }
+    },
+    {
+      "id": "power-quality-protection",
+      "path": "/products/power-quality-protection",
+      "name": "Power Quality & Protection Systems",
+      "summary": "UPS, voltage stabilizers, harmonic filters, power factor correction, and surge protection for critical equipment.",
+      "capacityOrScope": "Online and offline UPS, AVR, PFC, surge protection",
+      "applications": [
+        "Critical loads",
+        "Sensitive equipment",
+        "Industrial and commercial facilities"
+      ],
+      "brands": [
+        "APC by Schneider",
+        "Muda Energy",
+        "SURTAS"
+      ],
+      "services": [
+        "UPS Systems (Online & Offline)",
+        "Voltage Stabilizers & AVR",
+        "Active Harmonic Filters",
+        "Capacitor Banks (PFC)",
+        "Surge Protection Devices"
+      ],
+      "specs": {
+        "UPS Types": "Online & Offline",
+        "Voltage Stabilization": "AVR Technology",
+        "Power Factor Correction": "Capacitor Banks (PFC)",
+        "Brands": "APC by Schneider, Muda Energy, SURTAS"
+      }
+    },
+    {
+      "id": "electrical-distribution",
+      "path": "/products/electrical-distribution",
+      "name": "Electrical Distribution & Switchgear",
+      "summary": "LV power cables, circuit breakers, contactors, panels, enclosures, and distribution components.",
+      "capacityOrScope": "1×1.5 mm² to 3×300+150 mm² cables; MCB, MCCB, ACB",
+      "applications": [
+        "Industrial",
+        "Commercial",
+        "Electrical distribution and motor control"
+      ],
+      "brands": [
+        "El Sewedy",
+        "BMT",
+        "Schneider Electric"
+      ],
+      "services": [
+        "LV Power Cables",
+        "Circuit Breakers",
+        "Contactors & Overload Relays",
+        "Panels, Enclosures & Accessories"
+      ],
+      "specs": {
+        "Cable Range": "1×1.5 mm² – 3×300+150 mm²",
+        "Conductors": "Copper & Aluminum",
+        "Circuit Breakers": "MCB, MCCB, ACB",
+        "Brands": "El Sewedy, BMT, Schneider Electric"
+      }
+    },
+    {
+      "id": "hvac-cooling-systems",
+      "path": "/products/hvac-cooling-systems",
+      "name": "HVAC & Cooling Systems",
+      "summary": "Split, cassette, ducted, central AC, VRF/VRV, chillers, cold rooms, and ventilation systems.",
+      "capacityOrScope": "Residential to large commercial and data-center cooling",
+      "applications": [
+        "Commercial buildings",
+        "Data centers",
+        "Industrial cooling",
+        "Food storage and refrigeration"
+      ],
+      "brands": [
+        "GREE",
+        "MIDEA",
+        "TCL"
+      ],
+      "services": [
+        "Split, Cassette, Ducted & Central AC",
+        "VRF / VRV Systems",
+        "Data Center & Commercial AC",
+        "Chillers & Cooling Towers",
+        "Cold Rooms & Refrigeration",
+        "Ducting, Ventilation & Fire Dampers"
+      ],
+      "specs": {
+        "AC Types": "Split, Cassette, Ducted & Central",
+        "VRF/VRV": "Multi-zone Systems",
+        "Applications": "Data Center & Commercial",
+        "Brands": "GREE, MIDEA, TCL"
+      }
+    },
+    {
+      "id": "pumping-solutions",
+      "path": "/products/pumping-solutions",
+      "name": "Pumping Solutions",
+      "summary": "Submersible, surface, booster, and solar-powered pumps with control panels and maintenance.",
+      "capacityOrScope": "Water supply, irrigation, pressure boosting, remote solar pumping",
+      "applications": [
+        "Water supply",
+        "Irrigation",
+        "Industrial pumping",
+        "Remote locations"
+      ],
+      "brands": [
+        "Pedrollo",
+        "Caprari"
+      ],
+      "services": [
+        "Submersible Pumps",
+        "Surface & Booster Pumps",
+        "Solar Powered Pumps",
+        "Pump Control Panels",
+        "Motor Winding & Maintenance"
+      ],
+      "specs": {
+        "Pump Types": "Submersible, Surface & Booster",
+        "Power Options": "Electric & Solar Powered",
+        "Services": "Motor Winding & Maintenance",
+        "Brands": "Pedrollo, Caprari"
+      }
+    },
+    {
+      "id": "industrial-automation",
+      "path": "/products/industrial-automation",
+      "name": "Industrial Automation & Control",
+      "summary": "PLC systems, custom control panels, motor control centers, instrumentation, and sensors.",
+      "capacityOrScope": "Process control, MCC, custom panel manufacturing",
+      "applications": [
+        "Factories",
+        "Process plants",
+        "Motor control and automation"
+      ],
+      "brands": [
+        "Schneider",
+        "Mitsubishi Electric",
+        "ABB",
+        "Siemens",
+        "Mean Well"
+      ],
+      "services": [
+        "PLC & Automation Systems",
+        "Control Panel Design & Manufacturing",
+        "Motor Control Centers (MCC)",
+        "Instrumentation & Measurement",
+        "Sensors (Proximity, Temp, Pressure, Level)",
+        "CT & PT Transformers"
+      ],
+      "specs": {
+        "PLC Systems": "Schneider, Mitsubishi Electric, ABB, Siemens",
+        "Control Panels": "Custom Design & Manufacturing",
+        "MCC": "Motor Control Centers",
+        "Instrumentation": "Measurement & Sensors",
+        "Brands": "Schneider, Mitsubishi Electric, ABB, Siemens, Mean Well"
+      }
+    },
+    {
+      "id": "metal-engineering",
+      "path": "/products/metal-engineering",
+      "name": "Metal Engineering & Fabrication",
+      "summary": "Steel structures, fuel and industrial storage tanks, lighting poles, and stainless steel fabrication.",
+      "capacityOrScope": "Warehouses, trusses, tanks, poles, custom metalwork",
+      "applications": [
+        "Industrial buildings",
+        "Fuel storage",
+        "Outdoor lighting",
+        "Food and pharmaceutical fabrication"
+      ],
+      "brands": [],
+      "services": [
+        "Steel Structures (Warehouses, Trusses)",
+        "Fuel & Industrial Storage Tanks",
+        "Lighting Poles & Supports",
+        "Stainless Steel Fabrication",
+        "MIG / TIG / Arc Welding"
+      ],
+      "specs": {
+        "Structures": "Warehouses, Trusses",
+        "Storage Solutions": "Fuel & Industrial Tanks",
+        "Materials": "Steel, Stainless Steel",
+        "Welding": "MIG / TIG / Arc"
+      }
+    }
+  ],
+  "industriesServed": [
+    "Industrial facilities",
+    "Manufacturing plants",
+    "Commercial buildings",
+    "Data centers",
+    "Utilities",
+    "Food processing and cold storage",
+    "Warehouses and industrial buildings",
+    "Remote and off-grid locations",
+    "Government and institutional projects"
+  ],
+  "partnerBrands": [
+    "Perkins",
+    "Cummins",
+    "Schneider Electric",
+    "Mitsubishi Electric",
+    "GREE",
+    "ABB",
+    "Siemens",
+    "ANERN",
+    "APC by Schneider",
+    "El Sewedy",
+    "Pedrollo",
+    "Caprari",
+    "MIDEA",
+    "TCL",
+    "Mean Well",
+    "ASCO"
+  ],
+  "qualificationFlow": {
+    "entryQuestion": "Want to chat about CONSTANT ENGINEERING?",
+    "entryOptions": [
+      "New Engineering Project",
+      "Maintenance Issue"
+    ],
+    "systemTypes": [
+      "Electrical Systems",
+      "Mechanical Systems",
+      "Electromechanical",
+      "Industrial Facility"
+    ],
+    "conversionActions": [
+      "Request Quotation",
+      "Talk to Engineer",
+      "WhatsApp Consultation"
+    ],
+    "conversionSignals": [
+      "price",
+      "cost",
+      "quote",
+      "quotation",
+      "how much",
+      "request quote",
+      "talk to engineer",
+      "callback",
+      "ready to start",
+      "install at my",
+      "install for my"
+    ]
+  },
+  "agentBehavior": {
+    "role": "Senior engineering coordinator for CONSTANT ENGINEERING PLC",
+    "primaryGoal": "Get visitors to leave contact details so sales can follow up — brief answers only",
+    "tone": [
+      "Professional",
+      "Direct",
+      "Minimal",
+      "Confident"
+    ],
+    "rules": [
+      "Ask at most one follow-up question in the whole conversation, then stop",
+      "Keep replies to 1–2 short sentences",
+      "Do not ask new project vs maintenance, application type, or backup vs prime — sales qualifies on callback",
+      "When product or capacity is known, stop chatting — the contact form appears next",
+      "Do not over-explain company history or services unless asked",
+      "Never invent prices, timelines, or certifications",
+      "Answer product questions in chat using the knowledge base — never cite page URLs",
+      "Never include URLs, links, or paths in replies",
+      "If outside scope, offer to connect the visitor with an engineer via the contact form"
+    ],
+    "trustSignals": [
+      "Established in 2017",
+      "Professional engineering team",
+      "Serving clients across Ethiopia",
+      "Partnerships with Perkins, Cummins, Schneider Electric, Mitsubishi Electric, and others"
+    ],
+    "conversionMessage": "This looks like a project our engineering team should review directly. We can prepare accurate technical guidance and costing after a quick consultation.",
+    "leadFields": [
+      "Full Name",
+      "Phone Number",
+      "Company (optional)"
+    ],
+    "routes": {
+      "home": "/",
+      "products": "/products",
+      "about": "/about",
+      "contact": "/contact"
+    }
+  },
+  "generatedFrom": "constant-engineering website codebase",
+  "version": "1.0.0"
+}
